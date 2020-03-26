@@ -57,10 +57,6 @@ public:
     }
 };
 
-
-//===============================================
-// Write your `distance` function templates here
-//===============================================
 template <class T>
 double distance(T a, T b){
     double res = 0.0;
@@ -69,7 +65,6 @@ double distance(T a, T b){
     }    
     return res;
 }    
-//===============================================
 
 int main()
 {
