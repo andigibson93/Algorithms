@@ -1,1 +1,1 @@
-# Algorithms Course Work
+# Course Work
